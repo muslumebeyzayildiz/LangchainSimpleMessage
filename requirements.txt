@@ -1,0 +1,1 @@
+python-dotenv #.env i arasın ve onun içindeki bilgileri main.py da kullanıbilir hale getimesi  için
