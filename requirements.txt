@@ -1,1 +1,15 @@
-python-dotenv #.env i arasın ve onun içindeki bilgileri main.py da kullanıbilir hale getimesi  için
+#python-dotenv ----->.env i arasın ve onun içindeki bilgileri main.py da kullanıbilir hale getimesi  için
+langchain==0.2.10
+langchain-community==0.2.9
+langchain-core==0.2.22
+langchain-openai==0.1.17 #chatgpt ile beraber kullanacağımızdan ötürü karşımıza çıkan kısım
+langchain-text-splitters==0.2.2
+openai==1.59.8
+python-dotenv==1.0.1
+fastapi==0.111.1
+langserve==0.2.2 #local imizde projemizi çalıştırarak bir web projesi oluşturup onuın üzerinden ilerleyebiliyoruz.
+#fastapi kullanıyor o da
+sse_starlette==2.1.2
+#pip install httpx==0.24.1
+
+
