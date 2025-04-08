@@ -1,3 +1,5 @@
+son hali serve5.py içinde. gereklilikler yüklendikten sonra  çalıştırılınca:
+
 .env içinde
 
 OPENAI_API_KEY = ""
